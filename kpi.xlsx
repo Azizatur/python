@@ -1,0 +1,16 @@
+enbName	cellName	Cell name	SARF ID	Bandwidth	MO	Parameter name	Curent Value	Golden value	Remarks
+UHN1AIC100400142	Sec2	UHN1AIC100400142-Sec2	NNC2301000636	1500	CommonCellReselection	nonintraFreqRxThreshold	16	17	
+UHN1AIC100400142	Sec3	UHN1AIC100400142-Sec3	NNC2301000636	1500	CommonCellReselection	nonintraFreqRxThreshold	16	17	
+UHN1AIC100400142	Sec1	UHN1AIC100400142-Sec1	NNC2301000636	1500	CommonCellReselection	nonintraFreqRxThreshold	16	17	
+UHN1AIC100400142	Sec2	UHN1AIC100400142-Sec2	NNC2301000636	1500	EutranIntraFreqCellReselection	intraFreqRxThreshold	31	29	
+UHN1AIC100400142	Sec3	UHN1AIC100400142-Sec3	NNC2301000636	1500	EutranIntraFreqCellReselection	intraFreqRxThreshold	31	29	
+UHN1AIC100400142	Sec1	UHN1AIC100400142-Sec1	NNC2301000636	1500	EutranIntraFreqCellReselection	intraFreqRxThreshold	31	29	
+UHN1AIC100400142	Sec2	UHN1AIC100400142-Sec2	NNC2301000636	1500	EutranInterFreqCellReselection	freqQualityOffset	o1	o12	towards dlCarrierFreq - 1575
+UHN1AIC100400142	Sec3	UHN1AIC100400142-Sec3	NNC2301000636	1500	EutranInterFreqCellReselection	freqQualityOffset	o1	o13	towards dlCarrierFreq - 1575
+UHN1AIC100400142	Sec1	UHN1AIC100400142-Sec1	NNC2301000636	1500	EutranInterFreqCellReselection	freqQualityOffset	o1	o14	towards dlCarrierFreq - 1575
+UHN1AIC100400142	Sec2	UHN1AIC100400142-Sec2	NNC2301000636	1500	EutranInterFreqCellReselection	rxThresholdLow	14	8	towards dlCarrierFreq - 1575
+UHN1AIC100400142	Sec3	UHN1AIC100400142-Sec3	NNC2301000636	1500	EutranInterFreqCellReselection	rxThresholdLow	14	8	towards dlCarrierFreq - 1575
+UHN1AIC100400142	Sec1	UHN1AIC100400142-Sec1	NNC2301000636	1500	EutranInterFreqCellReselection	rxThresholdLow	14	8	towards dlCarrierFreq - 1575
+UHN1AIC100400142	Sec2	UHN1AIC100400142-Sec2	NNC2301000636	1500	EutranInterFreqCellReselection	All parameter related in MO EutranInterFreqCellReselection	create profile for EARFCN 1500		
+UHN1AIC100400142	Sec3	UHN1AIC100400142-Sec3	NNC2301000636	1500	EutranInterFreqCellReselection	All parameter related in MO EutranInterFreqCellReselection	create profile for EARFCN 1500		
+UHN1AIC100400142	Sec1	UHN1AIC100400142-Sec1	NNC2301000636	1500	EutranInterFreqCellReselection	All parameter related in MO EutranInterFreqCellReselection	create profile for EARFCN 1500		
